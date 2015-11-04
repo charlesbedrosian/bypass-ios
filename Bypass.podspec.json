@@ -30,6 +30,7 @@
     "tag": "1.0.1",
     "submodules": true
   },
+  "header_mappings_dir": "soldout",
   "source_files": [
     "Bypass/*.{h,m,mm}",
     "Libraries/bypass-core/src/*.{h,cpp}",
